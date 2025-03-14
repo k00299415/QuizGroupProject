@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs
+*.suo
+*.json
+/QuizDesktopApp/.vs/QuizDesktopApp/FileContentIndex
